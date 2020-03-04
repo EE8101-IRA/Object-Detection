@@ -1,0 +1,4 @@
+# ignore image and output files
+
+*.jpg
+*.avi
